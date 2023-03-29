@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\igra\igra\bin\Debug\net7.0\igra.exe
+C:\Users\djang\source\repos\igra\igra\bin\Debug\net7.0\igra.deps.json
+C:\Users\djang\source\repos\igra\igra\bin\Debug\net7.0\igra.runtimeconfig.json
+C:\Users\djang\source\repos\igra\igra\bin\Debug\net7.0\igra.dll
+C:\Users\djang\source\repos\igra\igra\bin\Debug\net7.0\igra.pdb
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\igra.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\igra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\igra.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\igra.AssemblyInfo.cs
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\igra.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\igra.dll
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\refint\igra.dll
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\igra.pdb
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\igra.genruntimeconfig.cache
+C:\Users\djang\source\repos\igra\igra\obj\Debug\net7.0\ref\igra.dll
